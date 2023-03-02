@@ -1,0 +1,6 @@
+# Jekyll config
+name: GH Pages Jekyll Test
+description: Testing out GH Pages and Jekyll to help out Eric
+url: "http://albusnoir.github.io"
+markdown: kramdown
+highlighter: rogue
