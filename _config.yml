@@ -5,3 +5,4 @@ url: "http://albusnoir.github.io"
 markdown: kramdown
 highlighter: rogue
 theme: slate # all themes: https://pages.github.com/themes/
+# remote_theme: github_user/theme_repo
