@@ -4,3 +4,4 @@ description: Testing out GH Pages and Jekyll to help out Eric
 url: "http://albusnoir.github.io"
 markdown: kramdown
 highlighter: rogue
+theme: slate # all themes: https://pages.github.com/themes/
